@@ -26,6 +26,8 @@
 }
 
 #current_list {
+    display: flex;
+    flex-direction: column;
     border: 5px black solid;
     margin-left: 4vh;
     background-color: black;
